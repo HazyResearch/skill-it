@@ -1,5 +1,8 @@
 # Skill-It 
 
+<div align="center" >
+    <img src="skillit_logo.svg" height=150 alt="Skill-It logo" style="margin-bottom:px"/> 
+
 **Skill-It! A Data-Driven Skills Framework for Understanding and Training Language Models**\
 Mayee F. Chen, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré.\
  [arxiv](https://arxiv.org/abs/2307.14430), NeurIPS 2023 (Spotlight)
