@@ -1,9 +1,9 @@
 # Skill-It 
 
 <div align="center" >
-    <img src="skillit_logo.svg" height=300 alt="Skill-It logo" style="margin-bottom:px"/> 
+    <img src="skillit_logo.svg" height=350 alt="Skill-It logo" style="margin-bottom:px"/> 
 </div>
-
+<br/>
 
 **Skill-It! A Data-Driven Skills Framework for Understanding and Training Language Models**\
 Mayee F. Chen, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré.\
